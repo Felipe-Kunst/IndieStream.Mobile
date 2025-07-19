@@ -134,7 +134,13 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 
 Luis Kaio - [@LKaio16](https://github.com/LKaio16)
 
-Link do Projeto: [https://github.com/LKaio16/indiestream-app](https://github.com/LKaio16/indiestream-app)
+Felipe Kunst - [@Felipe-Kunst](https://github.com/Felipe-Kunst)
+
+Matheus Moura - [@matheusm0ura](https://github.com/matheusm0ura)
+
+Mario Neto - [@MarioNeto21](https://github.com/MarioNeto21)
+
+Manoel Gomes - [@ManoelRamos077](https://github.com/ManoelRamos077)
 
 ---
 
